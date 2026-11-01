@@ -1,4 +1,4 @@
-# L46 Group Project:
+# Bayesian Optimisation for Quality Assessment of Protein Structure Predictions
 
 This respository conatins the work for Israel Mason-Williams (imf24), Luca Powell (lp647) and Kevin Monteiro (kidrm2) for the sumbission of the L48 Machine Learning and Physical World coursework codebase. 
 
